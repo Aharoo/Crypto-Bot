@@ -1,0 +1,10 @@
+package ua.telegrambot.botapi;
+
+public enum BotState {
+	SHOW_CRYPTO_INFORMATION,
+	SHOW_CRYPTO_SEARCH,
+	SHOW_SUBSCRIPTIONS,
+	FILLING_PROFILE,
+	SHOW_MAIN_MENU,
+	SHOW_HELP_MENU,
+}
